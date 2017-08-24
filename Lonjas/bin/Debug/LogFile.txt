@@ -1,0 +1,42 @@
+15/08/2017 18:23:02: Actualizacion de precios de Albacete y Talavera.
+15/08/2017 18:26:11: Lectura completada.
+15/08/2017 18:29:03: Lectura completada.
+17/08/2017 12:40:25: Actualizacion de precios de Albacete y Talavera.
+17/08/2017 12:43:44: Lectura completada.
+17/08/2017 12:46:27: Lectura completada.
+17/08/2017 12:49:27: Lectura completada.
+17/08/2017 12:52:27: Lectura completada.
+21/08/2017 20:30:18: Actualizacion de precios de Albacete y Talavera.
+21/08/2017 20:33:37: Lectura completada.
+21/08/2017 20:36:19: Lectura completada.
+21/08/2017 20:39:19: Lectura completada.
+21/08/2017 20:42:19: Lectura completada.
+21/08/2017 20:45:19: Lectura completada.
+21/08/2017 20:48:19: Lectura completada.
+21/08/2017 20:51:19: Lectura completada.
+21/08/2017 20:54:19: Lectura completada.
+21/08/2017 20:57:19: Lectura completada.
+21/08/2017 21:00:19: Lectura completada.
+21/08/2017 21:03:19: Lectura completada.
+21/08/2017 21:06:20: Lectura completada.
+21/08/2017 21:09:19: Lectura completada.
+21/08/2017 21:12:19: Lectura completada.
+21/08/2017 21:15:19: Lectura completada.
+22/08/2017 12:28:55: Actualizacion de precios de Albacete y Talavera.
+22/08/2017 12:32:02: Lectura completada.
+22/08/2017 12:34:56: Lectura completada.
+22/08/2017 12:37:57: Lectura completada.
+22/08/2017 12:40:57: Lectura completada.
+22/08/2017 12:43:56: Lectura completada.
+22/08/2017 12:46:57: Lectura completada.
+22/08/2017 12:49:57: Lectura completada.
+22/08/2017 12:52:57: Lectura completada.
+22/08/2017 12:55:56: Lectura completada.
+22/08/2017 12:58:56: Lectura completada.
+22/08/2017 13:01:56: Lectura completada.
+23/08/2017 14:18:00: Actualizacion de precios de Albacete y Talavera.
+23/08/2017 14:21:12: Lectura completada.
+24/08/2017 16:20:39: Actualizacion de precios de Albacete y Talavera.
+24/08/2017 16:23:52: Lectura completada.
+24/08/2017 16:26:41: Lectura completada.
+24/08/2017 16:29:40: Lectura completada.

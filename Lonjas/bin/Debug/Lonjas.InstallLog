@@ -1,0 +1,13 @@
+﻿Instalando ensamblado 'C:\Users\Miguel Angel\Documents\Repositorios\Lonjas\Lonjas\bin\Debug\Lonjas.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\Miguel Angel\Documents\Repositorios\Lonjas\Lonjas\bin\Debug\Lonjas.InstallLog
+   assemblypath = C:\Users\Miguel Angel\Documents\Repositorios\Lonjas\Lonjas\bin\Debug\Lonjas.exe
+Instalando el servicio Lonjas...
+El servicio Lonjas se ha instalado correctamente.
+Creando el origen de EventLog Lonjas en el registro Application...
+Confirmando ensamblado 'C:\Users\Miguel Angel\Documents\Repositorios\Lonjas\Lonjas\bin\Debug\Lonjas.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\Miguel Angel\Documents\Repositorios\Lonjas\Lonjas\bin\Debug\Lonjas.InstallLog
+   assemblypath = C:\Users\Miguel Angel\Documents\Repositorios\Lonjas\Lonjas\bin\Debug\Lonjas.exe
