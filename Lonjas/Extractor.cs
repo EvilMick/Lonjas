@@ -68,14 +68,14 @@ namespace Lonjas
                         CreaPrecioAlbaceteCereal(codigo, celdas[4].TextContent, celdas[5].TextContent.Trim(' '), fechas[contador], num_semana[contador], ultAlb);
 
                     }
-                    if (celdas[1].TextContent.ToLower().Contains("trigo") && celdas[2].TextContent.ToLower().Contains("grupo 1"))
+                    if (celdas[1].TextContent.ToLower().Contains("trigo") && celdas[2].TextContent.ToLower().Contains("duro grupo 1"))
                     {
 
                         string codigo = "TD";
                         CreaPrecioAlbaceteCereal(codigo, celdas[4].TextContent, celdas[5].TextContent.Trim(' '), fechas[contador], num_semana[contador], ultAlb);
 
                     }
-                    if (celdas[2].TextContent.ToLower().Contains("secadero"))
+                    if (celdas[1].TextContent.ToLower().Contains("maíz"))
                     {
 
                         string codigo = "MZ";
@@ -193,7 +193,7 @@ namespace Lonjas
                         CreaPrecioAlbacete(codigo, celdas[3].TextContent, celdas[4].TextContent, celdas[5].TextContent.Trim(' '), fechas[contador], num_semana[contador], ultAlb);
 
                     }
-                    if (celdas[1].TextContent.ToLower().Contains("cordero") && celdas[1].TextContent.ToLower().Contains("sin") && celdas[2].TextContent.ToLower().Contains("25.1"))
+                    if (celdas[1].TextContent.ToLower().Contains("cordero") && celdas[1].TextContent.ToLower().Contains("sin") && celdas[2].TextContent.ToLower().Contains("25.5"))
                     {
 
                         string codigo = "CSI25YO28";
