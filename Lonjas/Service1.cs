@@ -37,6 +37,8 @@ namespace Lonjas
 
         protected override void OnStop()
         {
+            timer1.Enabled = false;
+            Libreria.writeError("El servicio se ha detenido");
         }
     }
 }
